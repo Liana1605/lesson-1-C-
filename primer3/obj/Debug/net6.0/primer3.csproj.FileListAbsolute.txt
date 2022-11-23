@@ -1,0 +1,15 @@
+C:\1GB\C#\Lesson1\primer3\bin\Debug\net6.0\primer3.exe
+C:\1GB\C#\Lesson1\primer3\bin\Debug\net6.0\primer3.deps.json
+C:\1GB\C#\Lesson1\primer3\bin\Debug\net6.0\primer3.runtimeconfig.json
+C:\1GB\C#\Lesson1\primer3\bin\Debug\net6.0\primer3.dll
+C:\1GB\C#\Lesson1\primer3\bin\Debug\net6.0\primer3.pdb
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.csproj.AssemblyReference.cache
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.AssemblyInfoInputs.cache
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.AssemblyInfo.cs
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.csproj.CoreCompileInputs.cache
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.dll
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\refint\primer3.dll
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.pdb
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\primer3.genruntimeconfig.cache
+C:\1GB\C#\Lesson1\primer3\obj\Debug\net6.0\ref\primer3.dll
